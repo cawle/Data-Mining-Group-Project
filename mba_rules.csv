@@ -1,0 +1,603 @@
+antecedents,consequents,support,confidence,lift
+"MntFruits, MntSweetProducts","MntFishProducts, MntGoldProds, MntWines",0.645719941,0.890784983,1.112655408
+"MntFruits, MntMeatProducts, MntSweetProducts","MntFishProducts, MntGoldProds, MntWines",0.645719941,0.890784983,1.112655408
+"MntFruits, MntSweetProducts","MntFishProducts, MntGoldProds, MntMeatProducts, MntWines",0.645719941,0.890784983,1.112655408
+"MntFishProducts, MntGoldProds, MntWines","MntFruits, MntSweetProducts",0.645719941,0.806551298,1.112655408
+"MntFishProducts, MntGoldProds, MntMeatProducts, MntWines","MntFruits, MntSweetProducts",0.645719941,0.806551298,1.112655408
+"MntFishProducts, MntGoldProds, MntWines","MntFruits, MntMeatProducts, MntSweetProducts",0.645719941,0.806551298,1.112655408
+"MntFruits, MntSweetProducts","MntFishProducts, MntGoldProds, MntMeatProducts",0.648688768,0.894880546,1.110223194
+"MntFishProducts, MntGoldProds, MntMeatProducts","MntFruits, MntSweetProducts",0.648688768,0.804788214,1.110223194
+"MntFruits, MntSweetProducts, MntWines","MntFishProducts, MntGoldProds, MntMeatProducts",0.645719941,0.894448252,1.109686874
+"MntFishProducts, MntGoldProds, MntMeatProducts","MntFruits, MntSweetProducts, MntWines",0.645719941,0.801104972,1.109686874
+"MntFruits, MntSweetProducts","MntFishProducts, MntGoldProds",0.648688768,0.894880546,1.109542076
+"MntFruits, MntMeatProducts, MntSweetProducts","MntFishProducts, MntGoldProds",0.648688768,0.894880546,1.109542076
+"MntFishProducts, MntGoldProds","MntFruits, MntSweetProducts",0.648688768,0.804294479,1.109542076
+"MntFishProducts, MntGoldProds","MntFruits, MntMeatProducts, MntSweetProducts",0.648688768,0.804294479,1.109542076
+"MntFishProducts, MntFruits","MntGoldProds, MntSweetProducts, MntWines",0.645719941,0.878787879,1.109325611
+"MntFishProducts, MntFruits, MntMeatProducts","MntGoldProds, MntSweetProducts, MntWines",0.645719941,0.878787879,1.109325611
+"MntFishProducts, MntFruits","MntGoldProds, MntMeatProducts, MntSweetProducts, MntWines",0.645719941,0.878787879,1.109325611
+"MntGoldProds, MntSweetProducts, MntWines","MntFishProducts, MntFruits",0.645719941,0.815115553,1.109325611
+"MntGoldProds, MntMeatProducts, MntSweetProducts, MntWines","MntFishProducts, MntFruits",0.645719941,0.815115553,1.109325611
+"MntGoldProds, MntSweetProducts, MntWines","MntFishProducts, MntFruits, MntMeatProducts",0.645719941,0.815115553,1.109325611
+"MntFruits, MntSweetProducts, MntWines","MntFishProducts, MntGoldProds",0.645719941,0.894448252,1.109006085
+"MntFruits, MntMeatProducts, MntSweetProducts, MntWines","MntFishProducts, MntGoldProds",0.645719941,0.894448252,1.109006085
+"MntFishProducts, MntGoldProds","MntFruits, MntSweetProducts, MntWines",0.645719941,0.800613497,1.109006085
+"MntFishProducts, MntGoldProds","MntFruits, MntMeatProducts, MntSweetProducts, MntWines",0.645719941,0.800613497,1.109006085
+"MntFishProducts, MntFruits, MntGoldProds","MntSweetProducts, MntWines",0.645719941,0.895061728,1.108406711
+"MntFishProducts, MntFruits, MntGoldProds, MntMeatProducts","MntSweetProducts, MntWines",0.645719941,0.895061728,1.108406711
+"MntFishProducts, MntFruits, MntGoldProds","MntMeatProducts, MntSweetProducts, MntWines",0.645719941,0.895061728,1.108406711
+"MntSweetProducts, MntWines","MntFishProducts, MntFruits, MntGoldProds",0.645719941,0.799632353,1.108406711
+"MntMeatProducts, MntSweetProducts, MntWines","MntFishProducts, MntFruits, MntGoldProds",0.645719941,0.799632353,1.108406711
+"MntSweetProducts, MntWines","MntFishProducts, MntFruits, MntGoldProds, MntMeatProducts",0.645719941,0.799632353,1.108406711
+"MntFishProducts, MntFruits, MntWines","MntGoldProds, MntMeatProducts, MntSweetProducts",0.645719941,0.882949932,1.107660964
+"MntGoldProds, MntMeatProducts, MntSweetProducts","MntFishProducts, MntFruits, MntWines",0.645719941,0.810055866,1.107660964
+"MntFishProducts, MntFruits","MntGoldProds, MntMeatProducts, MntSweetProducts",0.648688768,0.882828283,1.107508355
+"MntGoldProds, MntMeatProducts, MntSweetProducts","MntFishProducts, MntFruits",0.648688768,0.813780261,1.107508355
+"MntFishProducts, MntFruits, MntWines","MntGoldProds, MntSweetProducts",0.645719941,0.882949932,1.10697383
+"MntFishProducts, MntFruits, MntMeatProducts, MntWines","MntGoldProds, MntSweetProducts",0.645719941,0.882949932,1.10697383
+"MntGoldProds, MntSweetProducts","MntFishProducts, MntFruits, MntWines",0.645719941,0.80955335,1.10697383
+"MntGoldProds, MntSweetProducts","MntFishProducts, MntFruits, MntMeatProducts, MntWines",0.645719941,0.80955335,1.10697383
+"MntFishProducts, MntFruits, MntGoldProds, MntWines","MntMeatProducts, MntSweetProducts",0.645719941,0.899379738,1.106971042
+"MntMeatProducts, MntSweetProducts","MntFishProducts, MntFruits, MntGoldProds, MntWines",0.645719941,0.794762485,1.106971042
+"MntFishProducts, MntFruits","MntGoldProds, MntSweetProducts",0.648688768,0.882828283,1.106821315
+"MntFishProducts, MntFruits, MntMeatProducts","MntGoldProds, MntSweetProducts",0.648688768,0.882828283,1.106821315
+"MntGoldProds, MntSweetProducts","MntFishProducts, MntFruits",0.648688768,0.813275434,1.106821315
+"MntGoldProds, MntSweetProducts","MntFishProducts, MntFruits, MntMeatProducts",0.648688768,0.813275434,1.106821315
+"MntFishProducts, MntFruits, MntGoldProds","MntMeatProducts, MntSweetProducts",0.648688768,0.899176955,1.106721453
+"MntMeatProducts, MntSweetProducts","MntFishProducts, MntFruits, MntGoldProds",0.648688768,0.798416565,1.106721453
+"MntFishProducts, MntFruits, MntGoldProds, MntWines",MntSweetProducts,0.645719941,0.899379738,1.106297292
+"MntFishProducts, MntFruits, MntGoldProds, MntMeatProducts, MntWines",MntSweetProducts,0.645719941,0.899379738,1.106297292
+MntSweetProducts,"MntFishProducts, MntFruits, MntGoldProds, MntWines",0.645719941,0.794278758,1.106297292
+MntSweetProducts,"MntFishProducts, MntFruits, MntGoldProds, MntMeatProducts, MntWines",0.645719941,0.794278758,1.106297292
+"MntFishProducts, MntFruits, MntGoldProds",MntSweetProducts,0.648688768,0.899176955,1.106047855
+"MntFishProducts, MntFruits, MntGoldProds, MntMeatProducts",MntSweetProducts,0.648688768,0.899176955,1.106047855
+MntSweetProducts,"MntFishProducts, MntFruits, MntGoldProds",0.648688768,0.797930615,1.106047855
+MntSweetProducts,"MntFishProducts, MntFruits, MntGoldProds, MntMeatProducts",0.648688768,0.797930615,1.106047855
+"MntFishProducts, MntFruits","MntSweetProducts, MntWines",0.656110836,0.892929293,1.105765993
+"MntFishProducts, MntFruits, MntMeatProducts","MntSweetProducts, MntWines",0.656110836,0.892929293,1.105765993
+"MntFishProducts, MntFruits","MntMeatProducts, MntSweetProducts, MntWines",0.656110836,0.892929293,1.105765993
+"MntSweetProducts, MntWines","MntFishProducts, MntFruits",0.656110836,0.8125,1.105765993
+"MntMeatProducts, MntSweetProducts, MntWines","MntFishProducts, MntFruits",0.656110836,0.8125,1.105765993
+"MntSweetProducts, MntWines","MntFishProducts, MntFruits, MntMeatProducts",0.656110836,0.8125,1.105765993
+"MntFishProducts, MntSweetProducts, MntWines","MntFruits, MntGoldProds",0.645719941,0.890177353,1.105745809
+"MntFishProducts, MntMeatProducts, MntSweetProducts, MntWines","MntFruits, MntGoldProds",0.645719941,0.890177353,1.105745809
+"MntFishProducts, MntSweetProducts, MntWines","MntFruits, MntGoldProds, MntMeatProducts",0.645719941,0.890177353,1.105745809
+"MntFruits, MntGoldProds","MntFishProducts, MntSweetProducts, MntWines",0.645719941,0.802089736,1.105745809
+"MntFruits, MntGoldProds, MntMeatProducts","MntFishProducts, MntSweetProducts, MntWines",0.645719941,0.802089736,1.105745809
+"MntFruits, MntGoldProds","MntFishProducts, MntMeatProducts, MntSweetProducts, MntWines",0.645719941,0.802089736,1.105745809
+"MntFruits, MntSweetProducts","MntFishProducts, MntWines",0.656110836,0.905119454,1.105284844
+"MntFruits, MntMeatProducts, MntSweetProducts","MntFishProducts, MntWines",0.656110836,0.905119454,1.105284844
+"MntFruits, MntSweetProducts","MntFishProducts, MntMeatProducts, MntWines",0.656110836,0.905119454,1.105284844
+"MntFishProducts, MntWines","MntFruits, MntSweetProducts",0.656110836,0.801208459,1.105284844
+"MntFishProducts, MntMeatProducts, MntWines","MntFruits, MntSweetProducts",0.656110836,0.801208459,1.105284844
+"MntFishProducts, MntWines","MntFruits, MntMeatProducts, MntSweetProducts",0.656110836,0.801208459,1.105284844
+"MntFishProducts, MntGoldProds, MntSweetProducts, MntWines",MntFruits,0.645719941,0.907510431,1.104866615
+"MntFishProducts, MntGoldProds, MntMeatProducts, MntSweetProducts, MntWines",MntFruits,0.645719941,0.907510431,1.104866615
+"MntFishProducts, MntGoldProds, MntSweetProducts, MntWines","MntFruits, MntMeatProducts",0.645719941,0.907510431,1.104866615
+MntFruits,"MntFishProducts, MntGoldProds, MntSweetProducts, MntWines",0.645719941,0.786144578,1.104866615
+"MntFruits, MntMeatProducts","MntFishProducts, MntGoldProds, MntSweetProducts, MntWines",0.645719941,0.786144578,1.104866615
+MntFruits,"MntFishProducts, MntGoldProds, MntMeatProducts, MntSweetProducts, MntWines",0.645719941,0.786144578,1.104866615
+"MntFruits, MntGoldProds, MntSweetProducts","MntFishProducts, MntWines",0.645719941,0.904365904,1.104364648
+"MntFruits, MntGoldProds, MntMeatProducts, MntSweetProducts","MntFishProducts, MntWines",0.645719941,0.904365904,1.104364648
+"MntFruits, MntGoldProds, MntSweetProducts","MntFishProducts, MntMeatProducts, MntWines",0.645719941,0.904365904,1.104364648
+"MntFishProducts, MntWines","MntFruits, MntGoldProds, MntSweetProducts",0.645719941,0.788519637,1.104364648
+"MntFishProducts, MntMeatProducts, MntWines","MntFruits, MntGoldProds, MntSweetProducts",0.645719941,0.788519637,1.104364648
+"MntFishProducts, MntWines","MntFruits, MntGoldProds, MntMeatProducts, MntSweetProducts",0.645719941,0.788519637,1.104364648
+"MntFishProducts, MntFruits, MntWines","MntMeatProducts, MntSweetProducts",0.656110836,0.897158322,1.104236887
+"MntMeatProducts, MntSweetProducts","MntFishProducts, MntFruits, MntWines",0.656110836,0.807551766,1.104236887
+"MntFishProducts, MntFruits","MntMeatProducts, MntSweetProducts",0.659079664,0.896969697,1.104004724
+"MntMeatProducts, MntSweetProducts","MntFishProducts, MntFruits",0.659079664,0.811205847,1.104004724
+"MntFishProducts, MntFruits, MntWines",MntSweetProducts,0.656110836,0.897158322,1.103564802
+"MntFishProducts, MntFruits, MntMeatProducts, MntWines",MntSweetProducts,0.656110836,0.897158322,1.103564802
+MntSweetProducts,"MntFishProducts, MntFruits, MntWines",0.656110836,0.807060256,1.103564802
+MntSweetProducts,"MntFishProducts, MntFruits, MntMeatProducts, MntWines",0.656110836,0.807060256,1.103564802
+"MntFishProducts, MntFruits",MntSweetProducts,0.659079664,0.896969697,1.10333278
+"MntFishProducts, MntFruits, MntMeatProducts",MntSweetProducts,0.659079664,0.896969697,1.10333278
+MntSweetProducts,"MntFishProducts, MntFruits",0.659079664,0.810712112,1.10333278
+MntSweetProducts,"MntFishProducts, MntFruits, MntMeatProducts",0.659079664,0.810712112,1.10333278
+"MntFruits, MntGoldProds","MntFishProducts, MntMeatProducts, MntSweetProducts",0.648688768,0.805777505,1.103303751
+"MntFishProducts, MntMeatProducts, MntSweetProducts","MntFruits, MntGoldProds",0.648688768,0.888211382,1.103303751
+"MntFishProducts, MntMeatProducts, MntSweetProducts","MntFruits, MntGoldProds, MntWines",0.645719941,0.884146341,1.102999849
+"MntFruits, MntGoldProds, MntWines","MntFishProducts, MntMeatProducts, MntSweetProducts",0.645719941,0.805555556,1.102999849
+"MntFruits, MntSweetProducts","MntFishProducts, MntMeatProducts",0.659079664,0.909215017,1.102955312
+"MntFishProducts, MntMeatProducts","MntFruits, MntSweetProducts",0.659079664,0.799519808,1.102955312
+"MntFishProducts, MntSweetProducts","MntFruits, MntGoldProds",0.648688768,0.88761002,1.102556762
+"MntFishProducts, MntSweetProducts","MntFruits, MntGoldProds, MntMeatProducts",0.648688768,0.88761002,1.102556762
+"MntFruits, MntGoldProds","MntFishProducts, MntSweetProducts",0.648688768,0.805777505,1.102556762
+"MntFruits, MntGoldProds, MntMeatProducts","MntFishProducts, MntSweetProducts",0.648688768,0.805777505,1.102556762
+"MntFruits, MntSweetProducts, MntWines","MntFishProducts, MntMeatProducts",0.656110836,0.908841672,1.102502413
+"MntFishProducts, MntMeatProducts","MntFruits, MntSweetProducts, MntWines",0.656110836,0.795918367,1.102502413
+"MntFruits, MntSweetProducts",MntFishProducts,0.659079664,0.909215017,1.102293671
+"MntFruits, MntMeatProducts, MntSweetProducts",MntFishProducts,0.659079664,0.909215017,1.102293671
+MntFishProducts,"MntFruits, MntSweetProducts",0.659079664,0.799040192,1.102293671
+MntFishProducts,"MntFruits, MntMeatProducts, MntSweetProducts",0.659079664,0.799040192,1.102293671
+MntFruits,"MntFishProducts, MntGoldProds, MntMeatProducts, MntSweetProducts",0.648688768,0.789759036,1.102281086
+"MntFishProducts, MntGoldProds, MntMeatProducts, MntSweetProducts",MntFruits,0.648688768,0.90538674,1.102281086
+"MntFishProducts, MntSweetProducts","MntFruits, MntGoldProds, MntWines",0.645719941,0.883547732,1.102253066
+"MntFishProducts, MntSweetProducts","MntFruits, MntGoldProds, MntMeatProducts, MntWines",0.645719941,0.883547732,1.102253066
+"MntFruits, MntGoldProds, MntWines","MntFishProducts, MntSweetProducts",0.645719941,0.805555556,1.102253066
+"MntFruits, MntGoldProds, MntMeatProducts, MntWines","MntFishProducts, MntSweetProducts",0.645719941,0.805555556,1.102253066
+"MntFruits, MntGoldProds, MntSweetProducts","MntFishProducts, MntMeatProducts",0.648688768,0.908523909,1.102116938
+"MntFishProducts, MntMeatProducts","MntFruits, MntGoldProds, MntSweetProducts",0.648688768,0.786914766,1.102116938
+"MntFishProducts, MntGoldProds, MntMeatProducts, MntSweetProducts","MntFruits, MntWines",0.645719941,0.901243094,1.101882815
+"MntFruits, MntWines","MntFishProducts, MntGoldProds, MntMeatProducts, MntSweetProducts",0.645719941,0.789473684,1.101882815
+"MntFruits, MntSweetProducts, MntWines",MntFishProducts,0.656110836,0.908841672,1.101841044
+"MntFruits, MntMeatProducts, MntSweetProducts, MntWines",MntFishProducts,0.656110836,0.908841672,1.101841044
+MntFishProducts,"MntFruits, MntSweetProducts, MntWines",0.656110836,0.795440912,1.101841044
+MntFishProducts,"MntFruits, MntMeatProducts, MntSweetProducts, MntWines",0.656110836,0.795440912,1.101841044
+"MntFruits, MntGoldProds, MntSweetProducts, MntWines","MntFishProducts, MntMeatProducts",0.645719941,0.908141962,1.101653605
+"MntFishProducts, MntMeatProducts","MntFruits, MntGoldProds, MntSweetProducts, MntWines",0.645719941,0.783313325,1.101653605
+MntFruits,"MntFishProducts, MntGoldProds, MntSweetProducts",0.648688768,0.789759036,1.101520367
+"MntFruits, MntMeatProducts","MntFishProducts, MntGoldProds, MntSweetProducts",0.648688768,0.789759036,1.101520367
+"MntFishProducts, MntGoldProds, MntSweetProducts",MntFruits,0.648688768,0.904761905,1.101520367
+"MntFishProducts, MntGoldProds, MntSweetProducts","MntFruits, MntMeatProducts",0.648688768,0.904761905,1.101520367
+"MntFruits, MntGoldProds, MntSweetProducts",MntFishProducts,0.648688768,0.908523909,1.1014558
+"MntFruits, MntGoldProds, MntMeatProducts, MntSweetProducts",MntFishProducts,0.648688768,0.908523909,1.1014558
+MntFishProducts,"MntFruits, MntGoldProds, MntSweetProducts",0.648688768,0.786442711,1.1014558
+MntFishProducts,"MntFruits, MntGoldProds, MntMeatProducts, MntSweetProducts",0.648688768,0.786442711,1.1014558
+"MntFishProducts, MntSweetProducts, MntWines",MntFruits,0.656110836,0.904502046,1.101203997
+"MntFishProducts, MntMeatProducts, MntSweetProducts, MntWines",MntFruits,0.656110836,0.904502046,1.101203997
+"MntFishProducts, MntSweetProducts, MntWines","MntFruits, MntMeatProducts",0.656110836,0.904502046,1.101203997
+MntFruits,"MntFishProducts, MntSweetProducts, MntWines",0.656110836,0.798795181,1.101203997
+"MntFruits, MntMeatProducts","MntFishProducts, MntSweetProducts, MntWines",0.656110836,0.798795181,1.101203997
+MntFruits,"MntFishProducts, MntMeatProducts, MntSweetProducts, MntWines",0.656110836,0.798795181,1.101203997
+"MntFruits, MntWines","MntFishProducts, MntGoldProds, MntSweetProducts",0.645719941,0.789473684,1.101122371
+"MntFruits, MntMeatProducts, MntWines","MntFishProducts, MntGoldProds, MntSweetProducts",0.645719941,0.789473684,1.101122371
+"MntFishProducts, MntGoldProds, MntSweetProducts","MntFruits, MntWines",0.645719941,0.900621118,1.101122371
+"MntFishProducts, MntGoldProds, MntSweetProducts","MntFruits, MntMeatProducts, MntWines",0.645719941,0.900621118,1.101122371
+"MntFruits, MntGoldProds, MntSweetProducts, MntWines",MntFishProducts,0.645719941,0.908141962,1.100992745
+"MntFruits, MntGoldProds, MntMeatProducts, MntSweetProducts, MntWines",MntFishProducts,0.645719941,0.908141962,1.100992745
+MntFishProducts,"MntFruits, MntGoldProds, MntSweetProducts, MntWines",0.645719941,0.782843431,1.100992745
+MntFishProducts,"MntFruits, MntGoldProds, MntMeatProducts, MntSweetProducts, MntWines",0.645719941,0.782843431,1.100992745
+"MntFishProducts, MntMeatProducts, MntSweetProducts",MntFruits,0.659079664,0.902439024,1.09869233
+MntFruits,"MntFishProducts, MntMeatProducts, MntSweetProducts",0.659079664,0.802409639,1.09869233
+"MntFishProducts, MntMeatProducts, MntSweetProducts","MntFruits, MntWines",0.656110836,0.898373984,1.098374967
+"MntFruits, MntWines","MntFishProducts, MntMeatProducts, MntSweetProducts",0.656110836,0.802177858,1.098374967
+"MntFishProducts, MntSweetProducts",MntFruits,0.659079664,0.90182803,1.097948463
+"MntFishProducts, MntSweetProducts","MntFruits, MntMeatProducts",0.659079664,0.90182803,1.097948463
+MntFruits,"MntFishProducts, MntSweetProducts",0.659079664,0.802409639,1.097948463
+"MntFruits, MntMeatProducts","MntFishProducts, MntSweetProducts",0.659079664,0.802409639,1.097948463
+"MntFishProducts, MntSweetProducts","MntFruits, MntWines",0.656110836,0.897765741,1.097631315
+"MntFishProducts, MntSweetProducts","MntFruits, MntMeatProducts, MntWines",0.656110836,0.897765741,1.097631315
+"MntFruits, MntWines","MntFishProducts, MntSweetProducts",0.656110836,0.802177858,1.097631315
+"MntFruits, MntMeatProducts, MntWines","MntFishProducts, MntSweetProducts",0.656110836,0.802177858,1.097631315
+"MntFishProducts, MntGoldProds, MntWines","MntMeatProducts, MntSweetProducts",0.711528946,0.888751545,1.093889691
+"MntMeatProducts, MntSweetProducts","MntFishProducts, MntGoldProds, MntWines",0.711528946,0.875761267,1.093889691
+"MntFruits, MntGoldProds","MntSweetProducts, MntWines",0.711034142,0.883220652,1.093743221
+"MntFruits, MntGoldProds, MntMeatProducts","MntSweetProducts, MntWines",0.711034142,0.883220652,1.093743221
+"MntFruits, MntGoldProds","MntMeatProducts, MntSweetProducts, MntWines",0.711034142,0.883220652,1.093743221
+"MntSweetProducts, MntWines","MntFruits, MntGoldProds",0.711034142,0.880514706,1.093743221
+"MntMeatProducts, MntSweetProducts, MntWines","MntFruits, MntGoldProds",0.711034142,0.880514706,1.093743221
+"MntSweetProducts, MntWines","MntFruits, MntGoldProds, MntMeatProducts",0.711034142,0.880514706,1.093743221
+"MntFishProducts, MntGoldProds",MntSweetProducts,0.716971796,0.888957055,1.093476694
+MntSweetProducts,"MntFishProducts, MntGoldProds",0.716971796,0.881923311,1.093476694
+"MntFishProducts, MntGoldProds, MntMeatProducts",MntSweetProducts,0.716476992,0.888888889,1.093392845
+MntSweetProducts,"MntFishProducts, MntGoldProds, MntMeatProducts",0.716476992,0.881314668,1.093392845
+"MntFishProducts, MntGoldProds","MntMeatProducts, MntSweetProducts",0.716476992,0.888343558,1.093387534
+"MntMeatProducts, MntSweetProducts","MntFishProducts, MntGoldProds",0.716476992,0.881851401,1.093387534
+"MntFishProducts, MntGoldProds, MntWines",MntSweetProducts,0.711528946,0.888751545,1.093223903
+"MntFishProducts, MntGoldProds, MntMeatProducts, MntWines",MntSweetProducts,0.711528946,0.888751545,1.093223903
+MntSweetProducts,"MntFishProducts, MntGoldProds, MntWines",0.711528946,0.875228241,1.093223903
+MntSweetProducts,"MntFishProducts, MntGoldProds, MntMeatProducts, MntWines",0.711528946,0.875228241,1.093223903
+"MntFishProducts, MntGoldProds, MntMeatProducts","MntSweetProducts, MntWines",0.711528946,0.882750153,1.093160576
+"MntSweetProducts, MntWines","MntFishProducts, MntGoldProds, MntMeatProducts",0.711528946,0.881127451,1.093160576
+"MntGoldProds, MntSweetProducts, MntWines",MntFruits,0.711034142,0.897564022,1.092757162
+"MntGoldProds, MntMeatProducts, MntSweetProducts, MntWines",MntFruits,0.711034142,0.897564022,1.092757162
+"MntGoldProds, MntSweetProducts, MntWines","MntFruits, MntMeatProducts",0.711034142,0.897564022,1.092757162
+MntFruits,"MntGoldProds, MntSweetProducts, MntWines",0.711034142,0.865662651,1.092757162
+"MntFruits, MntMeatProducts","MntGoldProds, MntSweetProducts, MntWines",0.711034142,0.865662651,1.092757162
+MntFruits,"MntGoldProds, MntMeatProducts, MntSweetProducts, MntWines",0.711034142,0.865662651,1.092757162
+"MntFishProducts, MntGoldProds","MntSweetProducts, MntWines",0.711528946,0.882208589,1.092489925
+"MntFishProducts, MntGoldProds","MntMeatProducts, MntSweetProducts, MntWines",0.711528946,0.882208589,1.092489925
+"MntSweetProducts, MntWines","MntFishProducts, MntGoldProds",0.711528946,0.881127451,1.092489925
+"MntMeatProducts, MntSweetProducts, MntWines","MntFishProducts, MntGoldProds",0.711528946,0.881127451,1.092489925
+"MntFishProducts, MntGoldProds, MntWines",MntFruits,0.717961405,0.896786156,1.091810133
+"MntFishProducts, MntGoldProds, MntMeatProducts, MntWines",MntFruits,0.717961405,0.896786156,1.091810133
+"MntFishProducts, MntGoldProds, MntWines","MntFruits, MntMeatProducts",0.717961405,0.896786156,1.091810133
+MntFruits,"MntFishProducts, MntGoldProds, MntWines",0.717961405,0.874096386,1.091810133
+"MntFruits, MntMeatProducts","MntFishProducts, MntGoldProds, MntWines",0.717961405,0.874096386,1.091810133
+MntFruits,"MntFishProducts, MntGoldProds, MntMeatProducts, MntWines",0.717961405,0.874096386,1.091810133
+"MntFruits, MntGoldProds, MntWines","MntMeatProducts, MntSweetProducts",0.711034142,0.887037037,1.091779447
+"MntMeatProducts, MntSweetProducts","MntFruits, MntGoldProds, MntWines",0.711034142,0.875152253,1.091779447
+"MntFruits, MntGoldProds","MntMeatProducts, MntSweetProducts",0.714002969,0.88690842,1.091621144
+"MntMeatProducts, MntSweetProducts","MntFruits, MntGoldProds",0.714002969,0.878806334,1.091621144
+"MntFruits, MntGoldProds, MntWines",MntSweetProducts,0.711034142,0.887037037,1.091114943
+"MntFruits, MntGoldProds, MntMeatProducts, MntWines",MntSweetProducts,0.711034142,0.887037037,1.091114943
+MntSweetProducts,"MntFruits, MntGoldProds, MntWines",0.711034142,0.874619598,1.091114943
+MntSweetProducts,"MntFruits, MntGoldProds, MntMeatProducts, MntWines",0.711034142,0.874619598,1.091114943
+"MntFruits, MntGoldProds",MntSweetProducts,0.714002969,0.88690842,1.090956736
+"MntFruits, MntGoldProds, MntMeatProducts",MntSweetProducts,0.714002969,0.88690842,1.090956736
+MntSweetProducts,"MntFruits, MntGoldProds",0.714002969,0.878271455,1.090956736
+MntSweetProducts,"MntFruits, MntGoldProds, MntMeatProducts",0.714002969,0.878271455,1.090956736
+"MntGoldProds, MntMeatProducts, MntSweetProducts","MntFruits, MntWines",0.711034142,0.891992551,1.090572865
+"MntFruits, MntWines","MntGoldProds, MntMeatProducts, MntSweetProducts",0.711034142,0.869328494,1.090572865
+"MntGoldProds, MntMeatProducts, MntSweetProducts",MntFruits,0.714002969,0.895716946,1.090508402
+MntFruits,"MntGoldProds, MntMeatProducts, MntSweetProducts",0.714002969,0.869277108,1.090508402
+"MntMeatProducts, MntSweetProducts","MntFishProducts, MntWines",0.725383474,0.892813642,1.090257626
+"MntFishProducts, MntWines","MntMeatProducts, MntSweetProducts",0.725383474,0.885800604,1.090257626
+"MntGoldProds, MntMeatProducts, MntSweetProducts","MntFishProducts, MntWines",0.711528946,0.892613284,1.090012958
+"MntFishProducts, MntWines","MntGoldProds, MntMeatProducts, MntSweetProducts",0.711528946,0.868882175,1.090012958
+"MntGoldProds, MntSweetProducts","MntFruits, MntWines",0.711034142,0.891439206,1.089896331
+"MntGoldProds, MntSweetProducts","MntFruits, MntMeatProducts, MntWines",0.711034142,0.891439206,1.089896331
+"MntFruits, MntWines","MntGoldProds, MntSweetProducts",0.711034142,0.869328494,1.089896331
+"MntFruits, MntMeatProducts, MntWines","MntGoldProds, MntSweetProducts",0.711034142,0.869328494,1.089896331
+MntSweetProducts,MntFishProducts,0.730826324,0.898965307,1.089867358
+MntFishProducts,MntSweetProducts,0.730826324,0.886022795,1.089867358
+"MntGoldProds, MntSweetProducts",MntFruits,0.714002969,0.89516129,1.089831908
+"MntGoldProds, MntSweetProducts","MntFruits, MntMeatProducts",0.714002969,0.89516129,1.089831908
+MntFruits,"MntGoldProds, MntSweetProducts",0.714002969,0.869277108,1.089831908
+"MntFruits, MntMeatProducts","MntGoldProds, MntSweetProducts",0.714002969,0.869277108,1.089831908
+"MntMeatProducts, MntSweetProducts",MntFishProducts,0.730331519,0.898903776,1.08979276
+MntFishProducts,"MntMeatProducts, MntSweetProducts",0.730331519,0.885422915,1.08979276
+MntSweetProducts,"MntFishProducts, MntMeatProducts",0.730331519,0.898356665,1.089783205
+"MntFishProducts, MntMeatProducts",MntSweetProducts,0.730331519,0.885954382,1.089783205
+"MntGoldProds, MntSweetProducts",MntFishProducts,0.716971796,0.898883375,1.089768027
+MntFishProducts,"MntGoldProds, MntSweetProducts",0.716971796,0.869226155,1.089768027
+"MntSweetProducts, MntWines","MntFishProducts, MntMeatProducts",0.725383474,0.898284314,1.089695437
+"MntFishProducts, MntMeatProducts","MntSweetProducts, MntWines",0.725383474,0.879951981,1.089695437
+"MntGoldProds, MntMeatProducts, MntSweetProducts",MntFishProducts,0.716476992,0.898820608,1.089691931
+MntFishProducts,"MntGoldProds, MntMeatProducts, MntSweetProducts",0.716476992,0.868626275,1.089691931
+"MntGoldProds, MntSweetProducts","MntFishProducts, MntMeatProducts",0.716476992,0.898263027,1.089669615
+"MntFishProducts, MntMeatProducts","MntGoldProds, MntSweetProducts",0.716476992,0.869147659,1.089669615
+"MntFishProducts, MntGoldProds, MntMeatProducts",MntFruits,0.721425037,0.895027624,1.089669174
+MntFruits,"MntFishProducts, MntGoldProds, MntMeatProducts",0.721425037,0.878313253,1.089669174
+MntSweetProducts,"MntFishProducts, MntWines",0.725383474,0.892270237,1.089594048
+MntSweetProducts,"MntFishProducts, MntMeatProducts, MntWines",0.725383474,0.892270237,1.089594048
+"MntFishProducts, MntWines",MntSweetProducts,0.725383474,0.885800604,1.089594048
+"MntFishProducts, MntMeatProducts, MntWines",MntSweetProducts,0.725383474,0.885800604,1.089594048
+"MntFishProducts, MntMeatProducts","MntGoldProds, MntSweetProducts, MntWines",0.711528946,0.863145258,1.089579367
+"MntGoldProds, MntSweetProducts, MntWines","MntFishProducts, MntMeatProducts",0.711528946,0.898188632,1.089579367
+"MntGoldProds, MntSweetProducts","MntFishProducts, MntWines",0.711528946,0.892059553,1.089336772
+"MntGoldProds, MntSweetProducts","MntFishProducts, MntMeatProducts, MntWines",0.711528946,0.892059553,1.089336772
+"MntFishProducts, MntWines","MntGoldProds, MntSweetProducts",0.711528946,0.868882175,1.089336772
+"MntFishProducts, MntMeatProducts, MntWines","MntGoldProds, MntSweetProducts",0.711528946,0.868882175,1.089336772
+"MntFruits, MntGoldProds","MntFishProducts, MntWines",0.717961405,0.891825446,1.089050892
+"MntFruits, MntGoldProds, MntMeatProducts","MntFishProducts, MntWines",0.717961405,0.891825446,1.089050892
+"MntFruits, MntGoldProds","MntFishProducts, MntMeatProducts, MntWines",0.717961405,0.891825446,1.089050892
+"MntFishProducts, MntWines","MntFruits, MntGoldProds",0.717961405,0.87673716,1.089050892
+"MntFishProducts, MntMeatProducts, MntWines","MntFruits, MntGoldProds",0.717961405,0.87673716,1.089050892
+"MntFishProducts, MntWines","MntFruits, MntGoldProds, MntMeatProducts",0.717961405,0.87673716,1.089050892
+"MntSweetProducts, MntWines",MntFishProducts,0.725383474,0.898284314,1.08904175
+"MntMeatProducts, MntSweetProducts, MntWines",MntFishProducts,0.725383474,0.898284314,1.08904175
+MntFishProducts,"MntSweetProducts, MntWines",0.725383474,0.879424115,1.08904175
+MntFishProducts,"MntMeatProducts, MntSweetProducts, MntWines",0.725383474,0.879424115,1.08904175
+"MntFishProducts, MntGoldProds, MntMeatProducts","MntFruits, MntWines",0.717961405,0.89073051,1.089029861
+"MntFruits, MntWines","MntFishProducts, MntGoldProds, MntMeatProducts",0.717961405,0.877797943,1.089029861
+MntFruits,"MntFishProducts, MntGoldProds",0.721425037,0.878313253,1.089000665
+"MntFruits, MntMeatProducts","MntFishProducts, MntGoldProds",0.721425037,0.878313253,1.089000665
+"MntFishProducts, MntGoldProds",MntFruits,0.721425037,0.894478528,1.089000665
+"MntFishProducts, MntGoldProds","MntFruits, MntMeatProducts",0.721425037,0.894478528,1.089000665
+"MntGoldProds, MntSweetProducts, MntWines",MntFishProducts,0.711528946,0.898188632,1.08892575
+"MntGoldProds, MntMeatProducts, MntSweetProducts, MntWines",MntFishProducts,0.711528946,0.898188632,1.08892575
+MntFishProducts,"MntGoldProds, MntSweetProducts, MntWines",0.711528946,0.862627475,1.08892575
+MntFishProducts,"MntGoldProds, MntMeatProducts, MntSweetProducts, MntWines",0.711528946,0.862627475,1.08892575
+MntFruits,"MntSweetProducts, MntWines",0.721919842,0.878915663,1.088412104
+"MntFruits, MntMeatProducts","MntSweetProducts, MntWines",0.721919842,0.878915663,1.088412104
+MntFruits,"MntMeatProducts, MntSweetProducts, MntWines",0.721919842,0.878915663,1.088412104
+"MntSweetProducts, MntWines",MntFruits,0.721919842,0.893995098,1.088412104
+"MntMeatProducts, MntSweetProducts, MntWines",MntFruits,0.721919842,0.893995098,1.088412104
+"MntSweetProducts, MntWines","MntFruits, MntMeatProducts",0.721919842,0.893995098,1.088412104
+"MntFishProducts, MntGoldProds","MntFruits, MntWines",0.717961405,0.890184049,1.088361744
+"MntFishProducts, MntGoldProds","MntFruits, MntMeatProducts, MntWines",0.717961405,0.890184049,1.088361744
+"MntFruits, MntWines","MntFishProducts, MntGoldProds",0.717961405,0.877797943,1.088361744
+"MntFruits, MntMeatProducts, MntWines","MntFishProducts, MntGoldProds",0.717961405,0.877797943,1.088361744
+"MntFishProducts, MntWines",MntFruits,0.731321128,0.89305136,1.087263131
+"MntFishProducts, MntMeatProducts, MntWines",MntFruits,0.731321128,0.89305136,1.087263131
+"MntFishProducts, MntWines","MntFruits, MntMeatProducts",0.731321128,0.89305136,1.087263131
+MntFruits,"MntFishProducts, MntWines",0.731321128,0.890361446,1.087263131
+"MntFruits, MntMeatProducts","MntFishProducts, MntWines",0.731321128,0.890361446,1.087263131
+MntFruits,"MntFishProducts, MntMeatProducts, MntWines",0.731321128,0.890361446,1.087263131
+"MntFruits, MntGoldProds","MntFishProducts, MntMeatProducts",0.721425037,0.896127843,1.087079454
+"MntFishProducts, MntMeatProducts","MntFruits, MntGoldProds",0.721425037,0.87515006,1.087079454
+"MntFruits, MntGoldProds, MntWines","MntFishProducts, MntMeatProducts",0.717961405,0.895679012,1.086534984
+"MntFishProducts, MntMeatProducts","MntFruits, MntGoldProds, MntWines",0.717961405,0.870948379,1.086534984
+"MntFruits, MntGoldProds",MntFishProducts,0.721425037,0.896127843,1.086427337
+"MntFruits, MntGoldProds, MntMeatProducts",MntFishProducts,0.721425037,0.896127843,1.086427337
+MntFishProducts,"MntFruits, MntGoldProds",0.721425037,0.874625075,1.086427337
+MntFishProducts,"MntFruits, MntGoldProds, MntMeatProducts",0.721425037,0.874625075,1.086427337
+"MntMeatProducts, MntSweetProducts","MntFruits, MntWines",0.721919842,0.888550548,1.086364584
+"MntFruits, MntWines","MntMeatProducts, MntSweetProducts",0.721919842,0.882637629,1.086364584
+"MntMeatProducts, MntSweetProducts",MntFruits,0.724888669,0.892204629,1.086232262
+MntFruits,"MntMeatProducts, MntSweetProducts",0.724888669,0.88253012,1.086232262
+"MntFruits, MntGoldProds, MntWines",MntFishProducts,0.717961405,0.895679012,1.085883194
+"MntFruits, MntGoldProds, MntMeatProducts, MntWines",MntFishProducts,0.717961405,0.895679012,1.085883194
+MntFishProducts,"MntFruits, MntGoldProds, MntWines",0.717961405,0.870425915,1.085883194
+MntFishProducts,"MntFruits, MntGoldProds, MntMeatProducts, MntWines",0.717961405,0.870425915,1.085883194
+MntSweetProducts,"MntFruits, MntWines",0.721919842,0.888009738,1.085703376
+MntSweetProducts,"MntFruits, MntMeatProducts, MntWines",0.721919842,0.888009738,1.085703376
+"MntFruits, MntWines",MntSweetProducts,0.721919842,0.882637629,1.085703376
+"MntFruits, MntMeatProducts, MntWines",MntSweetProducts,0.721919842,0.882637629,1.085703376
+MntSweetProducts,MntFruits,0.724888669,0.891661595,1.085571134
+MntSweetProducts,"MntFruits, MntMeatProducts",0.724888669,0.891661595,1.085571134
+MntFruits,MntSweetProducts,0.724888669,0.88253012,1.085571134
+"MntFruits, MntMeatProducts",MntSweetProducts,0.724888669,0.88253012,1.085571134
+MntFruits,"MntFishProducts, MntMeatProducts",0.73478476,0.894578313,1.085199743
+"MntFishProducts, MntMeatProducts",MntFruits,0.73478476,0.891356543,1.085199743
+"MntFruits, MntWines","MntFishProducts, MntMeatProducts",0.731321128,0.894131881,1.084658183
+"MntFishProducts, MntMeatProducts","MntFruits, MntWines",0.731321128,0.887154862,1.084658183
+MntFruits,MntFishProducts,0.73478476,0.894578313,1.084548753
+"MntFruits, MntMeatProducts",MntFishProducts,0.73478476,0.894578313,1.084548753
+MntFishProducts,MntFruits,0.73478476,0.890821836,1.084548753
+MntFishProducts,"MntFruits, MntMeatProducts",0.73478476,0.890821836,1.084548753
+"MntFruits, MntWines",MntFishProducts,0.731321128,0.894131881,1.084007518
+"MntFruits, MntMeatProducts, MntWines",MntFishProducts,0.731321128,0.894131881,1.084007518
+MntFishProducts,"MntFruits, MntWines",0.731321128,0.886622675,1.084007518
+MntFishProducts,"MntFruits, MntMeatProducts, MntWines",0.731321128,0.886622675,1.084007518
+"MntFruits, MntSweetProducts","MntGoldProds, MntWines",0.711034142,0.980887372,1.015560133
+"MntFruits, MntMeatProducts, MntSweetProducts","MntGoldProds, MntWines",0.711034142,0.980887372,1.015560133
+"MntFruits, MntSweetProducts","MntGoldProds, MntMeatProducts, MntWines",0.711034142,0.980887372,1.015560133
+"MntGoldProds, MntWines","MntFruits, MntSweetProducts",0.711034142,0.736168033,1.015560133
+"MntGoldProds, MntMeatProducts, MntWines","MntFruits, MntSweetProducts",0.711034142,0.736168033,1.015560133
+"MntGoldProds, MntWines","MntFruits, MntMeatProducts, MntSweetProducts",0.711034142,0.736168033,1.015560133
+"MntGoldProds, MntWines","MntFishProducts, MntFruits, MntSweetProducts",0.645719941,0.668545082,1.01436157
+"MntGoldProds, MntMeatProducts, MntWines","MntFishProducts, MntFruits, MntSweetProducts",0.645719941,0.668545082,1.01436157
+"MntGoldProds, MntWines","MntFishProducts, MntFruits, MntMeatProducts, MntSweetProducts",0.645719941,0.668545082,1.01436157
+"MntFishProducts, MntFruits, MntSweetProducts","MntGoldProds, MntWines",0.645719941,0.97972973,1.01436157
+"MntFishProducts, MntFruits, MntMeatProducts, MntSweetProducts","MntGoldProds, MntWines",0.645719941,0.97972973,1.01436157
+"MntFishProducts, MntFruits, MntSweetProducts","MntGoldProds, MntMeatProducts, MntWines",0.645719941,0.97972973,1.01436157
+"MntGoldProds, MntMeatProducts","MntFruits, MntSweetProducts",0.714002969,0.735099338,1.014085844
+"MntFruits, MntSweetProducts","MntGoldProds, MntMeatProducts",0.714002969,0.984982935,1.014085844
+"MntFruits, MntSweetProducts, MntWines","MntGoldProds, MntMeatProducts",0.711034142,0.984921179,1.014022263
+"MntGoldProds, MntMeatProducts","MntFruits, MntSweetProducts, MntWines",0.711034142,0.732042792,1.014022263
+"MntFruits, MntSweetProducts",MntGoldProds,0.714002969,0.984982935,1.013569507
+"MntFruits, MntMeatProducts, MntSweetProducts",MntGoldProds,0.714002969,0.984982935,1.013569507
+MntGoldProds,"MntFruits, MntSweetProducts",0.714002969,0.734725051,1.013569507
+MntGoldProds,"MntFruits, MntMeatProducts, MntSweetProducts",0.714002969,0.734725051,1.013569507
+"MntFruits, MntSweetProducts, MntWines",MntGoldProds,0.711034142,0.984921179,1.013505959
+"MntFruits, MntMeatProducts, MntSweetProducts, MntWines",MntGoldProds,0.711034142,0.984921179,1.013505959
+MntGoldProds,"MntFruits, MntSweetProducts, MntWines",0.711034142,0.731670061,1.013505959
+MntGoldProds,"MntFruits, MntMeatProducts, MntSweetProducts, MntWines",0.711034142,0.731670061,1.013505959
+"MntFishProducts, MntFruits, MntSweetProducts","MntGoldProds, MntMeatProducts",0.648688768,0.984234234,1.013315022
+"MntGoldProds, MntMeatProducts","MntFishProducts, MntFruits, MntSweetProducts",0.648688768,0.667855323,1.013315022
+"MntFishProducts, MntFruits, MntSweetProducts, MntWines","MntGoldProds, MntMeatProducts",0.645719941,0.984162896,1.013241575
+"MntGoldProds, MntMeatProducts","MntFishProducts, MntFruits, MntSweetProducts, MntWines",0.645719941,0.664798777,1.013241575
+"MntFishProducts, MntFruits, MntSweetProducts",MntGoldProds,0.648688768,0.984234234,1.012799077
+"MntFishProducts, MntFruits, MntMeatProducts, MntSweetProducts",MntGoldProds,0.648688768,0.984234234,1.012799077
+MntGoldProds,"MntFishProducts, MntFruits, MntSweetProducts",0.648688768,0.667515275,1.012799077
+MntGoldProds,"MntFishProducts, MntFruits, MntMeatProducts, MntSweetProducts",0.648688768,0.667515275,1.012799077
+"MntFishProducts, MntFruits, MntSweetProducts, MntWines",MntGoldProds,0.645719941,0.984162896,1.012725668
+"MntFishProducts, MntFruits, MntMeatProducts, MntSweetProducts, MntWines",MntGoldProds,0.645719941,0.984162896,1.012725668
+MntGoldProds,"MntFishProducts, MntFruits, MntSweetProducts, MntWines",0.645719941,0.664460285,1.012725668
+MntGoldProds,"MntFishProducts, MntFruits, MntMeatProducts, MntSweetProducts, MntWines",0.645719941,0.664460285,1.012725668
+"MntFishProducts, MntFruits","MntGoldProds, MntWines",0.717961405,0.977104377,1.011643415
+"MntFishProducts, MntFruits, MntMeatProducts","MntGoldProds, MntWines",0.717961405,0.977104377,1.011643415
+"MntFishProducts, MntFruits","MntGoldProds, MntMeatProducts, MntWines",0.717961405,0.977104377,1.011643415
+"MntGoldProds, MntWines","MntFishProducts, MntFruits",0.717961405,0.743340164,1.011643415
+"MntGoldProds, MntMeatProducts, MntWines","MntFishProducts, MntFruits",0.717961405,0.743340164,1.011643415
+"MntGoldProds, MntWines","MntFishProducts, MntFruits, MntMeatProducts",0.717961405,0.743340164,1.011643415
+"MntFishProducts, MntFruits","MntGoldProds, MntMeatProducts",0.721425037,0.981818182,1.010827583
+"MntGoldProds, MntMeatProducts","MntFishProducts, MntFruits",0.721425037,0.742740703,1.010827583
+"MntGoldProds, MntMeatProducts","MntFishProducts, MntFruits, MntWines",0.717961405,0.739174733,1.010738927
+"MntFishProducts, MntFruits, MntWines","MntGoldProds, MntMeatProducts",0.717961405,0.98173207,1.010738927
+MntFruits,"MntGoldProds, MntWines",0.801583375,0.975903614,1.010400207
+"MntFruits, MntMeatProducts","MntGoldProds, MntWines",0.801583375,0.975903614,1.010400207
+MntFruits,"MntGoldProds, MntMeatProducts, MntWines",0.801583375,0.975903614,1.010400207
+"MntGoldProds, MntWines",MntFruits,0.801583375,0.829918033,1.010400207
+"MntGoldProds, MntMeatProducts, MntWines",MntFruits,0.801583375,0.829918033,1.010400207
+"MntGoldProds, MntWines","MntFruits, MntMeatProducts",0.801583375,0.829918033,1.010400207
+"MntFishProducts, MntFruits",MntGoldProds,0.721425037,0.981818182,1.010312905
+"MntFishProducts, MntFruits, MntMeatProducts",MntGoldProds,0.721425037,0.981818182,1.010312905
+MntGoldProds,"MntFishProducts, MntFruits",0.721425037,0.742362525,1.010312905
+MntGoldProds,"MntFishProducts, MntFruits, MntMeatProducts",0.721425037,0.742362525,1.010312905
+"MntFishProducts, MntFruits, MntWines",MntGoldProds,0.717961405,0.98173207,1.010224294
+"MntFishProducts, MntFruits, MntMeatProducts, MntWines",MntGoldProds,0.717961405,0.98173207,1.010224294
+MntGoldProds,"MntFishProducts, MntFruits, MntWines",0.717961405,0.738798371,1.010224294
+MntGoldProds,"MntFishProducts, MntFruits, MntMeatProducts, MntWines",0.717961405,0.738798371,1.010224294
+"MntSweetProducts, MntWines","MntGoldProds, MntMeatProducts",0.792182088,0.981004902,1.009990273
+"MntGoldProds, MntMeatProducts","MntSweetProducts, MntWines",0.792182088,0.815588385,1.009990273
+"MntFishProducts, MntSweetProducts, MntWines","MntGoldProds, MntMeatProducts",0.711528946,0.980900409,1.009882693
+"MntGoldProds, MntMeatProducts","MntFishProducts, MntSweetProducts, MntWines",0.711528946,0.732552216,1.009882693
+MntSweetProducts,MntGoldProds,0.797624938,0.981132075,1.009606886
+MntGoldProds,MntSweetProducts,0.797624938,0.820773931,1.009606886
+"MntMeatProducts, MntSweetProducts",MntGoldProds,0.797130134,0.981120585,1.009595062
+MntGoldProds,"MntMeatProducts, MntSweetProducts",0.797130134,0.820264766,1.009595062
+"MntFishProducts, MntSweetProducts",MntGoldProds,0.716971796,0.981042654,1.00951487
+MntGoldProds,"MntFishProducts, MntSweetProducts",0.716971796,0.737780041,1.00951487
+"MntFishProducts, MntMeatProducts, MntSweetProducts",MntGoldProds,0.716476992,0.98102981,1.009501653
+MntGoldProds,"MntFishProducts, MntMeatProducts, MntSweetProducts",0.716476992,0.737270876,1.009501653
+"MntMeatProducts, MntSweetProducts","MntGoldProds, MntWines",0.792182088,0.975030451,1.009496179
+"MntGoldProds, MntWines","MntMeatProducts, MntSweetProducts",0.792182088,0.820184426,1.009496179
+MntSweetProducts,"MntGoldProds, MntMeatProducts",0.797130134,0.980523433,1.009494578
+"MntGoldProds, MntMeatProducts",MntSweetProducts,0.797130134,0.820682629,1.009494578
+"MntSweetProducts, MntWines",MntGoldProds,0.792182088,0.981004902,1.009476022
+"MntMeatProducts, MntSweetProducts, MntWines",MntGoldProds,0.792182088,0.981004902,1.009476022
+MntGoldProds,"MntSweetProducts, MntWines",0.792182088,0.815173116,1.009476022
+MntGoldProds,"MntMeatProducts, MntSweetProducts, MntWines",0.792182088,0.815173116,1.009476022
+"MntFishProducts, MntSweetProducts, MntWines",MntGoldProds,0.711528946,0.980900409,1.009368497
+"MntFishProducts, MntMeatProducts, MntSweetProducts, MntWines",MntGoldProds,0.711528946,0.980900409,1.009368497
+MntGoldProds,"MntFishProducts, MntSweetProducts, MntWines",0.711528946,0.732179226,1.009368497
+MntGoldProds,"MntFishProducts, MntMeatProducts, MntSweetProducts, MntWines",0.711528946,0.732179226,1.009368497
+"MntFishProducts, MntSweetProducts","MntGoldProds, MntMeatProducts",0.716476992,0.980365606,1.009332088
+"MntGoldProds, MntMeatProducts","MntFishProducts, MntSweetProducts",0.716476992,0.73764646,1.009332088
+MntFruits,"MntGoldProds, MntMeatProducts",0.805047006,0.980120482,1.009079722
+"MntGoldProds, MntMeatProducts",MntFruits,0.805047006,0.828833418,1.009079722
+"MntFruits, MntWines","MntGoldProds, MntMeatProducts",0.801583375,0.980036298,1.00899305
+"MntGoldProds, MntMeatProducts","MntFruits, MntWines",0.801583375,0.825267448,1.00899305
+"MntGoldProds, MntWines",MntSweetProducts,0.792182088,0.820184426,1.008881756
+"MntGoldProds, MntMeatProducts, MntWines",MntSweetProducts,0.792182088,0.820184426,1.008881756
+MntSweetProducts,"MntGoldProds, MntWines",0.792182088,0.974437005,1.008881756
+MntSweetProducts,"MntGoldProds, MntMeatProducts, MntWines",0.792182088,0.974437005,1.008881756
+"MntGoldProds, MntWines","MntFishProducts, MntMeatProducts, MntSweetProducts",0.711528946,0.736680328,1.008693051
+"MntFishProducts, MntMeatProducts, MntSweetProducts","MntGoldProds, MntWines",0.711528946,0.974254743,1.008693051
+MntFruits,MntGoldProds,0.805047006,0.980120482,1.008565934
+"MntFruits, MntMeatProducts",MntGoldProds,0.805047006,0.980120482,1.008565934
+MntGoldProds,MntFruits,0.805047006,0.828411405,1.008565934
+MntGoldProds,"MntFruits, MntMeatProducts",0.805047006,0.828411405,1.008565934
+"MntFruits, MntWines",MntGoldProds,0.801583375,0.980036298,1.008479306
+"MntFruits, MntMeatProducts, MntWines",MntGoldProds,0.801583375,0.980036298,1.008479306
+MntGoldProds,"MntFruits, MntWines",0.801583375,0.824847251,1.008479306
+MntGoldProds,"MntFruits, MntMeatProducts, MntWines",0.801583375,0.824847251,1.008479306
+"MntFishProducts, MntSweetProducts","MntGoldProds, MntWines",0.711528946,0.973595125,1.008010117
+"MntFishProducts, MntSweetProducts","MntGoldProds, MntMeatProducts, MntWines",0.711528946,0.973595125,1.008010117
+"MntGoldProds, MntWines","MntFishProducts, MntSweetProducts",0.711528946,0.736680328,1.008010117
+"MntGoldProds, MntMeatProducts, MntWines","MntFishProducts, MntSweetProducts",0.711528946,0.736680328,1.008010117
+"MntFishProducts, MntWines","MntGoldProds, MntMeatProducts",0.800593765,0.977643505,1.006529558
+"MntGoldProds, MntMeatProducts","MntFishProducts, MntWines",0.800593765,0.824248599,1.006529558
+MntFishProducts,MntGoldProds,0.80653142,0.977804439,1.006182674
+MntGoldProds,MntFishProducts,0.80653142,0.8299389,1.006182674
+"MntFishProducts, MntMeatProducts",MntGoldProds,0.806036616,0.977791116,1.006168965
+MntGoldProds,"MntFishProducts, MntMeatProducts",0.806036616,0.829429735,1.006168965
+MntFishProducts,"MntGoldProds, MntMeatProducts",0.806036616,0.977204559,1.006077643
+"MntGoldProds, MntMeatProducts",MntFishProducts,0.806036616,0.829852267,1.006077643
+"MntFishProducts, MntWines",MntGoldProds,0.800593765,0.977643505,1.006017069
+"MntFishProducts, MntMeatProducts, MntWines",MntGoldProds,0.800593765,0.977643505,1.006017069
+MntGoldProds,"MntFishProducts, MntWines",0.800593765,0.823828921,1.006017069
+MntGoldProds,"MntFishProducts, MntMeatProducts, MntWines",0.800593765,0.823828921,1.006017069
+"MntFishProducts, MntMeatProducts","MntGoldProds, MntWines",0.800593765,0.971188475,1.005518396
+"MntGoldProds, MntWines","MntFishProducts, MntMeatProducts",0.800593765,0.828893443,1.005518396
+MntFishProducts,"MntGoldProds, MntWines",0.800593765,0.970605879,1.004915205
+MntFishProducts,"MntGoldProds, MntMeatProducts, MntWines",0.800593765,0.970605879,1.004915205
+"MntGoldProds, MntWines",MntFishProducts,0.800593765,0.828893443,1.004915205
+"MntGoldProds, MntMeatProducts, MntWines",MntFishProducts,0.800593765,0.828893443,1.004915205
+"MntFruits, MntSweetProducts",MntWines,0.721919842,0.995904437,1.001853095
+"MntFruits, MntMeatProducts, MntSweetProducts",MntWines,0.721919842,0.995904437,1.001853095
+"MntFruits, MntSweetProducts","MntMeatProducts, MntWines",0.721919842,0.995904437,1.001853095
+MntWines,"MntFruits, MntSweetProducts",0.721919842,0.726231956,1.001853095
+"MntMeatProducts, MntWines","MntFruits, MntSweetProducts",0.721919842,0.726231956,1.001853095
+MntWines,"MntFruits, MntMeatProducts, MntSweetProducts",0.721919842,0.726231956,1.001853095
+MntWines,"MntFruits, MntGoldProds, MntSweetProducts",0.711034142,0.715281234,1.001790281
+"MntMeatProducts, MntWines","MntFruits, MntGoldProds, MntSweetProducts",0.711034142,0.715281234,1.001790281
+MntWines,"MntFruits, MntGoldProds, MntMeatProducts, MntSweetProducts",0.711034142,0.715281234,1.001790281
+"MntFruits, MntGoldProds, MntSweetProducts",MntWines,0.711034142,0.995841996,1.001790281
+"MntFruits, MntGoldProds, MntMeatProducts, MntSweetProducts",MntWines,0.711034142,0.995841996,1.001790281
+"MntFruits, MntGoldProds, MntSweetProducts","MntMeatProducts, MntWines",0.711034142,0.995841996,1.001790281
+MntFruits,MntWines,0.817911925,0.995783133,1.001731066
+"MntFruits, MntMeatProducts",MntWines,0.817911925,0.995783133,1.001731066
+MntFruits,"MntMeatProducts, MntWines",0.817911925,0.995783133,1.001731066
+MntWines,MntFruits,0.817911925,0.822797412,1.001731066
+"MntMeatProducts, MntWines",MntFruits,0.817911925,0.822797412,1.001731066
+MntWines,"MntFruits, MntMeatProducts",0.817911925,0.822797412,1.001731066
+MntWines,"MntFruits, MntGoldProds",0.801583375,0.806371329,1.001645025
+"MntMeatProducts, MntWines","MntFruits, MntGoldProds",0.801583375,0.806371329,1.001645025
+MntWines,"MntFruits, MntGoldProds, MntMeatProducts",0.801583375,0.806371329,1.001645025
+"MntFruits, MntGoldProds",MntWines,0.801583375,0.995697603,1.001645025
+"MntFruits, MntGoldProds, MntMeatProducts",MntWines,0.801583375,0.995697603,1.001645025
+"MntFruits, MntGoldProds","MntMeatProducts, MntWines",0.801583375,0.995697603,1.001645025
+"MntFishProducts, MntFruits, MntSweetProducts",MntWines,0.656110836,0.995495495,1.001441711
+"MntFishProducts, MntFruits, MntMeatProducts, MntSweetProducts",MntWines,0.656110836,0.995495495,1.001441711
+"MntFishProducts, MntFruits, MntSweetProducts","MntMeatProducts, MntWines",0.656110836,0.995495495,1.001441711
+MntWines,"MntFishProducts, MntFruits, MntSweetProducts",0.656110836,0.660029866,1.001441711
+"MntMeatProducts, MntWines","MntFishProducts, MntFruits, MntSweetProducts",0.656110836,0.660029866,1.001441711
+MntWines,"MntFishProducts, MntFruits, MntMeatProducts, MntSweetProducts",0.656110836,0.660029866,1.001441711
+"MntFishProducts, MntFruits, MntGoldProds, MntSweetProducts",MntWines,0.645719941,0.995423341,1.001369125
+"MntFishProducts, MntFruits, MntGoldProds, MntMeatProducts, MntSweetProducts",MntWines,0.645719941,0.995423341,1.001369125
+"MntFishProducts, MntFruits, MntGoldProds, MntSweetProducts","MntMeatProducts, MntWines",0.645719941,0.995423341,1.001369125
+MntWines,"MntFishProducts, MntFruits, MntGoldProds, MntSweetProducts",0.645719941,0.649576904,1.001369125
+"MntMeatProducts, MntWines","MntFishProducts, MntFruits, MntGoldProds, MntSweetProducts",0.645719941,0.649576904,1.001369125
+MntWines,"MntFishProducts, MntFruits, MntGoldProds, MntMeatProducts, MntSweetProducts",0.645719941,0.649576904,1.001369125
+"MntFishProducts, MntFruits",MntWines,0.731321128,0.995286195,1.00123116
+"MntFishProducts, MntFruits, MntMeatProducts",MntWines,0.731321128,0.995286195,1.00123116
+"MntFishProducts, MntFruits","MntMeatProducts, MntWines",0.731321128,0.995286195,1.00123116
+MntWines,"MntFishProducts, MntFruits",0.731321128,0.735689398,1.00123116
+"MntMeatProducts, MntWines","MntFishProducts, MntFruits",0.731321128,0.735689398,1.00123116
+MntWines,"MntFishProducts, MntFruits, MntMeatProducts",0.731321128,0.735689398,1.00123116
+"MntFishProducts, MntFruits, MntGoldProds",MntWines,0.717961405,0.995198903,1.001143346
+"MntFishProducts, MntFruits, MntGoldProds, MntMeatProducts",MntWines,0.717961405,0.995198903,1.001143346
+"MntFishProducts, MntFruits, MntGoldProds","MntMeatProducts, MntWines",0.717961405,0.995198903,1.001143346
+MntWines,"MntFishProducts, MntFruits, MntGoldProds",0.717961405,0.722249876,1.001143346
+"MntMeatProducts, MntWines","MntFishProducts, MntFruits, MntGoldProds",0.717961405,0.722249876,1.001143346
+MntWines,"MntFishProducts, MntFruits, MntGoldProds, MntMeatProducts",0.717961405,0.722249876,1.001143346
+MntWines,MntMeatProducts,0.994062345,1,1.00049505
+MntFruits,MntMeatProducts,0.821375557,1,1.00049505
+"MntFruits, MntWines",MntMeatProducts,0.817911925,1,1.00049505
+"MntFishProducts, MntWines",MntMeatProducts,0.818901534,1,1.00049505
+"MntSweetProducts, MntWines",MntMeatProducts,0.807521029,1,1.00049505
+"MntGoldProds, MntWines",MntMeatProducts,0.965858486,1,1.00049505
+"MntFishProducts, MntFruits",MntMeatProducts,0.73478476,1,1.00049505
+"MntFruits, MntSweetProducts",MntMeatProducts,0.724888669,1,1.00049505
+"MntFruits, MntGoldProds",MntMeatProducts,0.805047006,1,1.00049505
+"MntFishProducts, MntFruits, MntWines",MntMeatProducts,0.731321128,1,1.00049505
+"MntFruits, MntSweetProducts, MntWines",MntMeatProducts,0.721919842,1,1.00049505
+"MntFruits, MntGoldProds, MntWines",MntMeatProducts,0.801583375,1,1.00049505
+"MntFishProducts, MntSweetProducts, MntWines",MntMeatProducts,0.725383474,1,1.00049505
+"MntFishProducts, MntGoldProds, MntWines",MntMeatProducts,0.800593765,1,1.00049505
+"MntGoldProds, MntSweetProducts, MntWines",MntMeatProducts,0.792182088,1,1.00049505
+"MntFishProducts, MntFruits, MntSweetProducts",MntMeatProducts,0.659079664,1,1.00049505
+"MntFishProducts, MntFruits, MntGoldProds",MntMeatProducts,0.721425037,1,1.00049505
+"MntFruits, MntGoldProds, MntSweetProducts",MntMeatProducts,0.714002969,1,1.00049505
+"MntFishProducts, MntFruits, MntSweetProducts, MntWines",MntMeatProducts,0.656110836,1,1.00049505
+"MntFishProducts, MntFruits, MntGoldProds, MntWines",MntMeatProducts,0.717961405,1,1.00049505
+"MntFruits, MntGoldProds, MntSweetProducts, MntWines",MntMeatProducts,0.711034142,1,1.00049505
+"MntFishProducts, MntGoldProds, MntSweetProducts, MntWines",MntMeatProducts,0.711528946,1,1.00049505
+"MntFishProducts, MntFruits, MntGoldProds, MntSweetProducts",MntMeatProducts,0.648688768,1,1.00049505
+"MntFishProducts, MntFruits, MntGoldProds, MntSweetProducts, MntWines",MntMeatProducts,0.645719941,1,1.00049505
+MntMeatProducts,MntWines,0.994062345,0.994554455,1.00049505
+MntMeatProducts,"MntGoldProds, MntWines",0.965858486,0.966336634,1.00049505
+MntMeatProducts,MntFruits,0.821375557,0.821782178,1.00049505
+MntMeatProducts,"MntFishProducts, MntWines",0.818901534,0.819306931,1.00049505
+MntMeatProducts,"MntFruits, MntWines",0.817911925,0.818316832,1.00049505
+MntMeatProducts,"MntSweetProducts, MntWines",0.807521029,0.807920792,1.00049505
+MntMeatProducts,"MntFruits, MntGoldProds",0.805047006,0.805445545,1.00049505
+MntMeatProducts,"MntFruits, MntGoldProds, MntWines",0.801583375,0.801980198,1.00049505
+MntMeatProducts,"MntFishProducts, MntGoldProds, MntWines",0.800593765,0.800990099,1.00049505
+MntMeatProducts,"MntGoldProds, MntSweetProducts, MntWines",0.792182088,0.792574257,1.00049505
+MntMeatProducts,"MntFishProducts, MntFruits",0.73478476,0.735148515,1.00049505
+MntMeatProducts,"MntFishProducts, MntFruits, MntWines",0.731321128,0.731683168,1.00049505
+MntMeatProducts,"MntFishProducts, MntSweetProducts, MntWines",0.725383474,0.725742574,1.00049505
+MntMeatProducts,"MntFruits, MntSweetProducts",0.724888669,0.725247525,1.00049505
+MntMeatProducts,"MntFruits, MntSweetProducts, MntWines",0.721919842,0.722277228,1.00049505
+MntMeatProducts,"MntFishProducts, MntFruits, MntGoldProds",0.721425037,0.721782178,1.00049505
+MntMeatProducts,"MntFishProducts, MntFruits, MntGoldProds, MntWines",0.717961405,0.718316832,1.00049505
+MntMeatProducts,"MntFruits, MntGoldProds, MntSweetProducts",0.714002969,0.714356436,1.00049505
+MntMeatProducts,"MntFishProducts, MntGoldProds, MntSweetProducts, MntWines",0.711528946,0.711881188,1.00049505
+MntMeatProducts,"MntFruits, MntGoldProds, MntSweetProducts, MntWines",0.711034142,0.711386139,1.00049505
+MntMeatProducts,"MntFishProducts, MntFruits, MntSweetProducts",0.659079664,0.659405941,1.00049505
+MntMeatProducts,"MntFishProducts, MntFruits, MntSweetProducts, MntWines",0.656110836,0.656435644,1.00049505
+MntMeatProducts,"MntFishProducts, MntFruits, MntGoldProds, MntSweetProducts",0.648688768,0.649009901,1.00049505
+MntMeatProducts,"MntFishProducts, MntFruits, MntGoldProds, MntSweetProducts, MntWines",0.645719941,0.646039604,1.00049505
+"MntGoldProds, MntMeatProducts",MntWines,0.965858486,0.994396332,1.000335982
+MntWines,"MntGoldProds, MntMeatProducts",0.965858486,0.971627675,1.000335982
+MntGoldProds,MntMeatProducts,0.971301336,0.999490835,0.999985632
+MntMeatProducts,MntGoldProds,0.971301336,0.971782178,0.999985632
+MntFishProducts,MntMeatProducts,0.824344384,0.99940012,0.999894873
+MntMeatProducts,MntFishProducts,0.824344384,0.824752475,0.999894873
+MntSweetProducts,MntMeatProducts,0.812469075,0.999391357,0.999886105
+MntMeatProducts,MntSweetProducts,0.812469075,0.812871287,0.999886105
+"MntFishProducts, MntGoldProds",MntMeatProducts,0.806036616,0.999386503,0.999881249
+MntMeatProducts,"MntFishProducts, MntGoldProds",0.806036616,0.806435644,0.999881249
+"MntGoldProds, MntSweetProducts",MntMeatProducts,0.797130134,0.999379653,0.999874395
+MntMeatProducts,"MntGoldProds, MntSweetProducts",0.797130134,0.797524752,0.999874395
+"MntMeatProducts, MntSweetProducts",MntWines,0.807521029,0.993909866,0.99984661
+MntWines,"MntMeatProducts, MntSweetProducts",0.807521029,0.81234445,0.99984661
+MntGoldProds,MntWines,0.965858486,0.99389002,0.999826646
+MntGoldProds,"MntMeatProducts, MntWines",0.965858486,0.99389002,0.999826646
+MntWines,MntGoldProds,0.965858486,0.971627675,0.999826646
+"MntMeatProducts, MntWines",MntGoldProds,0.965858486,0.971627675,0.999826646
+"MntFishProducts, MntSweetProducts",MntMeatProducts,0.730331519,0.999322952,0.999817666
+MntMeatProducts,"MntFishProducts, MntSweetProducts",0.730331519,0.730693069,0.999817666
+MntMeatProducts,"MntFishProducts, MntGoldProds, MntSweetProducts",0.716476992,0.716831683,0.999804577
+"MntFishProducts, MntGoldProds, MntSweetProducts",MntMeatProducts,0.716476992,0.999309869,0.999804577
+MntWines,"MntGoldProds, MntMeatProducts, MntSweetProducts",0.792182088,0.796913888,0.999728719
+"MntGoldProds, MntMeatProducts, MntSweetProducts",MntWines,0.792182088,0.993792675,0.999728719
+"MntFishProducts, MntMeatProducts",MntWines,0.818901534,0.993397359,0.999331042
+MntWines,"MntFishProducts, MntMeatProducts",0.818901534,0.823792932,0.999331042
+MntSweetProducts,MntWines,0.807521029,0.99330493,0.99923806
+MntSweetProducts,"MntMeatProducts, MntWines",0.807521029,0.99330493,0.99923806
+MntWines,MntSweetProducts,0.807521029,0.81234445,0.99923806
+"MntMeatProducts, MntWines",MntSweetProducts,0.807521029,0.81234445,0.99923806
+MntWines,"MntFishProducts, MntGoldProds, MntMeatProducts",0.800593765,0.805375809,0.999180178
+"MntFishProducts, MntGoldProds, MntMeatProducts",MntWines,0.800593765,0.993247391,0.999180178
+"MntFishProducts, MntMeatProducts, MntSweetProducts",MntWines,0.725383474,0.993224932,0.999157585
+MntWines,"MntFishProducts, MntMeatProducts, MntSweetProducts",0.725383474,0.729716277,0.999157585
+"MntGoldProds, MntSweetProducts",MntWines,0.792182088,0.993176179,0.99910854
+"MntGoldProds, MntSweetProducts","MntMeatProducts, MntWines",0.792182088,0.993176179,0.99910854
+MntWines,"MntGoldProds, MntSweetProducts",0.792182088,0.796913888,0.99910854
+"MntMeatProducts, MntWines","MntGoldProds, MntSweetProducts",0.792182088,0.796913888,0.99910854
+"MntFishProducts, MntGoldProds, MntMeatProducts, MntSweetProducts",MntWines,0.711528946,0.993093923,0.999025793
+MntWines,"MntFishProducts, MntGoldProds, MntMeatProducts, MntSweetProducts",0.711528946,0.715778995,0.999025793
+MntFishProducts,MntWines,0.818901534,0.99280144,0.998731563
+MntFishProducts,"MntMeatProducts, MntWines",0.818901534,0.99280144,0.998731563
+MntWines,MntFishProducts,0.818901534,0.823792932,0.998731563
+"MntMeatProducts, MntWines",MntFishProducts,0.818901534,0.823792932,0.998731563
+MntWines,"MntFishProducts, MntGoldProds",0.800593765,0.805375809,0.998567184
+"MntMeatProducts, MntWines","MntFishProducts, MntGoldProds",0.800593765,0.805375809,0.998567184
+"MntFishProducts, MntGoldProds",MntWines,0.800593765,0.992638037,0.998567184
+"MntFishProducts, MntGoldProds","MntMeatProducts, MntWines",0.800593765,0.992638037,0.998567184
+"MntFishProducts, MntSweetProducts",MntWines,0.725383474,0.992552471,0.998481107
+"MntFishProducts, MntSweetProducts","MntMeatProducts, MntWines",0.725383474,0.992552471,0.998481107
+MntWines,"MntFishProducts, MntSweetProducts",0.725383474,0.729716277,0.998481107
+"MntMeatProducts, MntWines","MntFishProducts, MntSweetProducts",0.725383474,0.729716277,0.998481107
+"MntFishProducts, MntGoldProds, MntSweetProducts",MntWines,0.711528946,0.992408558,0.998336334
+"MntFishProducts, MntGoldProds, MntSweetProducts","MntMeatProducts, MntWines",0.711528946,0.992408558,0.998336334
+MntWines,"MntFishProducts, MntGoldProds, MntSweetProducts",0.711528946,0.715778995,0.998336334
+"MntMeatProducts, MntWines","MntFishProducts, MntGoldProds, MntSweetProducts",0.711528946,0.715778995,0.998336334
